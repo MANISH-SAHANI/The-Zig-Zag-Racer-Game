@@ -27,7 +27,6 @@ One of the factors that make Zig-Zag Racer Game so addictive is its wide range o
 
 You can easily download the .zip file OR THE APK included above or you can download it from the release section. Once you have downloaded the files, you can unzip it or and install it and you are ready to play. Enjoy!
 
-
-![4](https://github.com/MANISH-SAHANI/The-Zig-Zag-Racer-Game/assets/91081774/5574d092-c34a-471a-a04d-01246f1063e1)
+![4](https://github.com/MANISH-SAHANI/The-Zig-Zag-Racer-Game/assets/91081774/d1a060fb-fd58-4fb3-a055-ad3b16004ca3)
 
 
