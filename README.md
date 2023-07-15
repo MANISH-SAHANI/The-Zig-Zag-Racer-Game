@@ -25,7 +25,7 @@ One of the factors that make Zig-Zag Racer Game so addictive is its wide range o
 
 <h2> Do you want to download the game?💫</h2>
 
-You can easily download the .zip file included above or you can download it from the release section. Once you have downloaded the game, you can unzip it and run Kitchen Chaos.exe and you are ready to play. Enjoy!
+You can easily download the .zip file OR THE APK included above or you can download it from the release section. Once you have downloaded the files, you can unzip it or and install it and you are ready to play. Enjoy!
 
 
 ![4](https://github.com/MANISH-SAHANI/The-Zig-Zag-Racer-Game/assets/91081774/5574d092-c34a-471a-a04d-01246f1063e1)
