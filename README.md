@@ -5,12 +5,14 @@
 
 
 <h2>Zig Zag Racer Game 🚗</h2> 
-Zig-Zag Racer Game is an exciting mobile game that combines high-speed racing with precise handling. With its captivating gameplay and addictive challenges, this game has managed to captivate the hearts of millions of players worldwide. 
+Zig-Zag Racer Game is an exciting mobile game that combines high-speed racing with precise handling. With its captivating gameplay and addictive challenges, this game has managed to captivate the hearts of millions of players worldwide.       
+
 
 ![2](https://github.com/MANISH-SAHANI/The-Zig-Zag-Racer-Game/assets/91081774/d4c251f1-112a-4262-920e-82370e60b031)
 
 <h2>Gameplay and Controls:</h2> 
-Zig-Zag Racer Game offers an exciting racing experience that tests players' reflexes and precision. The game takes place on a winding track full of twists and turns, and your objective is to navigate through the course without falling off the track. The controls are straightforward and intuitive, allowing players to tap on the screen to change rotation.The longer you stay on the track without crashing, the higher your score will be. It's a simple concept, but the challenge lies in the game's increasingly difficult levels and the need for split-second decision-making.
+Zig-Zag Racer Game offers an exciting racing experience that tests players' reflexes and precision. The game takes place on a winding track full of twists and turns, and your objective is to navigate through the course without falling off the track. The controls are straightforward and intuitive, allowing players to tap on the screen to change rotation.The longer you stay on the track without crashing, the higher your score will be. It's a simple concept, but the challenge lies in the game's increasingly difficult levels and the need for split-second decision-making.                                                                 
+
 
 
 ![3](https://github.com/MANISH-SAHANI/The-Zig-Zag-Racer-Game/assets/91081774/b8520b95-123e-4371-aea4-82a998f1887c)
